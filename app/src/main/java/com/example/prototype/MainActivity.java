@@ -17,12 +17,17 @@ import com.google.android.material.navigation.NavigationView;
 public class MainActivity extends AppCompatActivity {
 
     //SOMETHING
+<<<<<<< HEAD
     // Comment here
 
 
 
 
+=======
+   //Testing Commenting
+>>>>>>> origin/main
 
+    
 
     DrawerLayout drawerLayout;
     NavigationView navigationView;
